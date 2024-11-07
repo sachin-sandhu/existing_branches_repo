@@ -6,7 +6,7 @@ gem "factory_girl", "4.7.0"
 gem "rubocop", "0.76.0"
 gem "rspec", "3.7.0"
 gem "excon", "1.0.0"
-gem "json", "2.7.2"
+gem "json", "2.8.1"
 gem "dotenv", "3.1.4"
 
 # Open source

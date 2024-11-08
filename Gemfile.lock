@@ -1,10 +1,10 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    excon (1.0.0)
+    excon (1.2.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  excon (= 1.0.0)
+  excon (= 1.2.0)
